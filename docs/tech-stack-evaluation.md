@@ -1,18 +1,18 @@
 # Tech Stack Evaluation
 
 ## Project
-[Name of your Assignment 1 or FYP project, in one line]
+Smart Pipe Water Leakage Detection and Real-Time Monitoring Using IoT
 
 ## Requirements that drive the decision
 List 3 to 5 requirements from your own docs/requirements.md. Include at
 least 2 non-functional requirements.
-- [FR or NFR number]: [requirement]
-- [FR or NFR number]: [requirement]
-- [FR or NFR number]: [requirement]
+- [FR1]: The system shall measure water flow rate in the monitored pipe at regular intervals.
+- [FR2]: The system shall measure water pressure in the monitored pipe at regular intervals.
+- [NFR1]: The dashboard shall show a new reading withing 5 seconds of it being measured.
 
 ## Options
-- Option A: [for example: static website (HTML and JavaScript) on GitHub Pages]
-- Option B: [for example: Python web app (Flask) with a database on a cloud host]
+- Option A: HTML and JavaScript
+- Option B: Python web app (Flask) with a database on a cloud host
 - Option C: [your own idea]
 
 ## Decision matrix
